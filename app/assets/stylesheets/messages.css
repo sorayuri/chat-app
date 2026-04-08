@@ -80,7 +80,6 @@ margin-top: 36px;
   background-color: #FAFAFA;
   height: calc(100vh - 100px - 90px);
   padding: 46px 40px 0;
-  overflow: scroll;
 }
 
 .message {
@@ -111,7 +110,6 @@ margin-top: 36px;
   font-size: 14px;
   margin-bottom: 40px;
 }
-
 
 .form {
   background-color: #DDDDDD;
@@ -156,3 +154,4 @@ margin-top: 36px;
 .hidden {
    display: none;
 }
+
